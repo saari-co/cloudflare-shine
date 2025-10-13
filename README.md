@@ -1,3 +1,16 @@
+# Great Smoky Cannabis Company
+
+Modern React website for Great Smoky Cannabis Company, built with Vite, TypeScript, and Tailwind CSS.
+
+## Deploy to Cloudflare Pages
+
+**Build Configuration:**
+- Build command: `npm run build`
+- Build output directory: `dist`
+- Node version: 18+
+
+---
+
 # Welcome to your Lovable project
 
 ## Project info

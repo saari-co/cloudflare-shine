@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="relative container mx-auto px-4 py-16 md:py-24">
         <div className="max-w-4xl mx-auto text-center animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 bg-gradient-to-r from-foreground to-foreground/80 bg-clip-text">
-            Great Smoky Cannabis Company
+            Smoky Cannabis Company
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto">
@@ -36,7 +36,7 @@ const Hero = () => {
             </a>
             
             <a 
-              href="https://smokymountaincbd.com/product-category/flower/" 
+              href="https://smokymountaincbd.com/product-category/thca-flower/" 
               className="bg-secondary hover:bg-secondary/80 text-secondary-foreground px-8 py-4 rounded-xl font-semibold transition-all duration-300 hover:scale-105"
               target="_blank"
               rel="noopener noreferrer"
@@ -45,7 +45,7 @@ const Hero = () => {
             </a>
             
             <a 
-              href="https://smokymountaincbd.com/product-category/concentrates/" 
+              href="https://smokymountaincbd.com/product-category/cannabis-concentrates/" 
               className="bg-secondary hover:bg-secondary/80 text-secondary-foreground px-8 py-4 rounded-xl font-semibold transition-all duration-300 hover:scale-105"
               target="_blank"
               rel="noopener noreferrer"

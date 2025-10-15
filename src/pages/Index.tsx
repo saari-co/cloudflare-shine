@@ -22,15 +22,15 @@ const Index = () => {
       "itemOffered": [
         {
           "@type": "Product",
-          "name": "Hemp Edibles"
+          "name": "Cannabis Edibles"
         },
         {
           "@type": "Product",
-          "name": "Hemp Flower"
+          "name": "THCa Flower"
         },
         {
           "@type": "Product",
-          "name": "Hemp Concentrates"
+          "name": "Dabs & Concentrates"
         }
       ]
     }

@@ -10,29 +10,13 @@ const Index = () => {
     "@type": "LocalBusiness",
     "name": "Smoky Mountain CBD",
     "description": "Premium hemp-derived THCa products shipping from Cherokee County, NC",
-    "url": "https://smokycannabisco.com",
+    "url": "https://www.smokycannabisco.com",
+    "telephone": "1-800-SMCBD-NC",
+    "priceRange": "$$",
     "address": {
       "@type": "PostalAddress",
       "addressRegion": "NC",
       "addressLocality": "Cherokee County"
-    },
-    "offers": {
-      "@type": "AggregateOffer",
-      "availability": "https://schema.org/InStock",
-      "itemOffered": [
-        {
-          "@type": "Product",
-          "name": "Cannabis Edibles"
-        },
-        {
-          "@type": "Product",
-          "name": "THCa Flower"
-        },
-        {
-          "@type": "Product",
-          "name": "Dabs & Concentrates"
-        }
-      ]
     }
   };
 
